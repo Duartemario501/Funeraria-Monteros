@@ -1,0 +1,21 @@
+{
+  "name": "Funeraria Monteros",
+  "short_name": "Funeraria Monteros",
+  "description": "Servicios funerarios con fe y compromiso",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
